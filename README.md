@@ -1,6 +1,8 @@
 # Estrutura de Dados - ADS
 
 ## -> Últimas imagens da RUN:
+> Árvores Binárias: 
+![image](https://github.com/user-attachments/assets/bb853cd3-d581-4199-b556-053da0ab5433)
 
 ![image](https://github.com/user-attachments/assets/6048317e-d49a-4dc2-93e6-aca2e8a60bba)
 
