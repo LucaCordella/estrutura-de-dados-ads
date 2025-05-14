@@ -3,6 +3,7 @@
 ## -> Últimas imagens da RUN:
 
 > Árvores Rubro-Negras (usadas em C++, Java, Kernel do Linux)
+![image](https://github.com/user-attachments/assets/ecec7b9f-94ab-4384-b01c-499eec4068fb)
 
 > Árvores Binárias: 
 ![image](https://github.com/user-attachments/assets/bb853cd3-d581-4199-b556-053da0ab5433)
