@@ -1,5 +1,5 @@
 # Estrutura de Dados - ADS
-### Esses projetos são com base nas aulas de Estrutura de dados, utilizando Java para aprimorar meus conhecimentos em outras linguagens de programação.
+### <i>Esses projetos são com base nas aulas de Estrutura de dados, utilizando Java para aprimorar meus conhecimentos em outras linguagens de programação.</i>
 ## -> Últimas imagens da RUN:
 
 > Árvores Rubro-Negras (usadas em C++, Java, Kernel do Linux)
